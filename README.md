@@ -2,6 +2,9 @@
 
 Hey there! 👋 Just a heads up that this project was built around 8 months ago as part of my learning journey with Next.js. At that time, I was still getting the hang of best practices and optimal folder structures. As a result, you might find that the project structure isn't as polished as it could be.
 
+### Live
+* https://codes-wear2.vercel.app/
+
 ### .env Setup
 ```sh
 ADMIN_USER=<required for admin panel login>
