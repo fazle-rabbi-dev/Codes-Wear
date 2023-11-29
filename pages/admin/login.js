@@ -35,7 +35,6 @@ const Login = () => {
   
   const handleSubmit = async (e) => {
     e.preventDefault();
-    alert(process.env.NEXT_PUBLIC_HOST)
     setIsSigningIn(true);
     const res = await fetch(`${process.env.NEXT_PUBLIC_HOST}/api/admin/login`, {
           method: 'POST',
