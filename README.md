@@ -1,6 +1,5 @@
-## 🚧 Project Structure Note
-
-Hey there! 👋 Just a heads up that this project was built around 8 months ago as part of my learning journey with Next.js. At that time, I was still getting the hang of best practices and optimal folder structures. As a result, you might find that the project structure isn't as polished as it could be.
+## Codeswear
+Codes-Wear is a free and open source e-commerce website built with Next.js.You can use this project as a template for your own e-commerce website.
 
 ### Live
 * https://codes-wear2.vercel.app/
