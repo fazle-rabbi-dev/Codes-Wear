@@ -4,12 +4,12 @@
 
 Codes-Wear is a free and open source e-commerce website built with Next.js.You can use this project as a template for your own e-commerce website
 
-### Created at
-- `March 23` - `April 23`
-
 ### 🔴 Unveiling the Journey of Building Codes-Wear
 > [!Note]
 > I created this e-commerce project while learning Next.js. It served as my real-world project to grasp Next.js concepts. I learned how to handle authentication, build a full-stack app with Next.js, work with API routes, and create a cart in an e-commerce app. This project provided me with valuable hands-on experience.
+
+### Project Created at 🗓️
+- `March 23` - `April 23`
 
 ### Technologies Used ⚒️
 - Next.js
